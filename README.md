@@ -3,6 +3,6 @@
 
 Easily convert mbox files to json using python3
 
-#USAGE
+# USAGE
 You can dump the JSON to a file by using:
 `python3 mbox_jsonify.py INPUT_FILENAME.mbox OUTPUT_FILENAME.json`
